@@ -1,0 +1,27 @@
+El SCRUM es un framework de trabajo que permite constante interación con los Stakeholders (es decir,
+los interesados) lo cual habilita a tener constante feedback y crea un flow de trabajo dinámico. Esta   
+metodología se divide en interaciones llamadas Sprint, suelen durar de dos a cuatro semanas según la forma
+de trabajo que tenga el equipo.
+Artefactos:
+-Product backlog: las cosas que debe hacer el producto a desarrollar, por lo general es una documentación
+no contractual, es puramente para tener una mejor organización sobre como van a priorizar las historias
+de usuarios
+-Sprint Backlog: son tareas que se desarrollan y no deben durar más de 16 horas, si duran más deberan
+dividirse en subtareas.
+Roles:
+-Stakeholder: es decir, los interesados del producto.
+Product Owner: es el encargado de dar prioridad a las historias de usuarios, estas no pueden modificarse
+a menos que tengan el permiso del PO, es quien crea un puente de comunicación entre el Stakeholder y el
+equipo de trabajo.
+-Scrum master: se encarga de que las normas de trabajo de metodología Scrum se cumplan, es un facilitador.
+-Equipo de trabajo(team): son el equipo que desarrolla el producto, suelen ser de tres a nueve personas,
+entre ellos pueden estar diseñadores, programadores, QA, etc.
+Ceremonias: hay cuatro ceremonias, la primera es la planning, donde se plantea el desarrollo de la Sprint
+con división de tareas y se deja en claro que trabajo se va a realizar; las daily, son reuniones diarias
+que no tienen como fin solucionar problemas o inconvenientes, son de corta duración, es más que nada para
+saber que va a trabajar cada miembro ese día, las review son reuniones en las que se muentran los avances
+del producto a los stakeholders y al product owner, más que nada para ver como siente que va quedando el
+producto y recibir un feedback antes de seguir avanzando, las retrospectivas son reuniones para los
+miembros del equipo en donde se pueden anotar los points actions, es decir, revisar que se hizo mal en la
+Sprint, como cmabiar lo que se hizo mal, que se hizo bien para seguir haciéndolo y como se puede mejorar
+el flujo de trabajo.

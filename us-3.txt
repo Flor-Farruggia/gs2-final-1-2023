@@ -1,0 +1,5 @@
+Formas de obtener requisitos:
+*creando conversaciones con los clientes y desarrolladores previos.
+*analizando el software actual u obsoleto.
+*revisando la base de datos.
+*mediante encuestas
